@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -  >>[email]-trigger_austin00@proton.me
 ### Skill set
 -> C
--> JavaScript
--> JAVA
+- > JavaScript
+- > JAVA
 -> HTML5
 -> CSS
 -> BOOTSTRAP
