@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -  >>[linkedin]-in/austin-nganga/
 -  >>[email]-trigger_austin00@proton.me
 ### Skill set
-- :w> C
--  > JavaScript
--  > JAVA
--  > HTML5
--  > CSS
--  > BOOTSTRAP
+- > C
+> JavaScript
+> JAVA
+> HTML5
+> CSS
+> BOOTSTRAP
 
 
