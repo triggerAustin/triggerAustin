@@ -9,8 +9,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...--->
 - 🌱 I’m currently learning C in the alx program, js and java on the side too
 - 👯 I’m looking to collaborate on website projects to test my front and back end
-- 📫 How to reach me:
+### 📫 How to reach me:
 -  >>[X]-@neigh_bar
 -  >>[linkedin]-in/austin-nganga/
 -  >>[email]-trigger_austin00@proton.me
+### Skill set
+- :w> C
+-  > JavaScript
+-  > JAVA
+-  > HTML5
+-  > CSS
+-  > BOOTSTRAP
+
 
