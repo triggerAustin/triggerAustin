@@ -15,7 +15,7 @@ I’m currently focused on:
 ### 🧠 StudyMate – AI-Powered Document Intelligence  
 > Find correlations, retrieve insights, and skip the reading grind.  
 Built with: `React`, `Flask`, `FAISS`, `Together AI`  
-[View Project](https://github.com/yourusername/studymate)
+[View Project](https://github.com/triggerAustin/studymate)
 
 ### 📅 Scheduler App – Built with the MERN Stack  
 > Lightweight, fast, and designed with actual users in mind.  
@@ -39,6 +39,15 @@ Built with: `Python`, `Flask`, `SQLAlchemy`
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=triggerAustin&show_icons=true&theme=tokyonight&hide=contribs&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triggerAustin&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## 📌 What Drives Me
 
 I don't just write code—I build tools that solve real problems.  
@@ -55,4 +64,4 @@ If it doesn’t push me, I don’t pursue it.
 
 ---
 
-_“Discipline is choosing what you want most over what you want now.”_  
+_“Discipline is choosing what you want most over what you want now.”_
