@@ -60,7 +60,7 @@ If it doesn’t push me, I don’t pursue it.
 ## 📫 Let's Talk (Only if it matters)
 
 - Email: `trigger_austin00@proton.me`
-- Portfolio: [yourwebsite.dev](https://austinnganga.web.app/)
+- Portfolio: [myPortfolio](https://austinnganga.web.app/)
 
 ---
 
