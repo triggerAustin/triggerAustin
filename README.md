@@ -15,7 +15,7 @@ I’m currently focused on:
 ### 🧠 StudyMate – AI-Powered Document Intelligence  
 > Find correlations, retrieve insights, and skip the reading grind.  
 Built with: `React`, `Flask`, `FAISS`, `Together AI`  
-[View Project](https://github.com/triggerAustin/studymate)
+[View Project](https://github.com/triggerAustin/AIProject)
 
 ### 📅 Scheduler App – Built with the MERN Stack  
 > Lightweight, fast, and designed with actual users in mind.  
@@ -60,7 +60,6 @@ If it doesn’t push me, I don’t pursue it.
 ## 📫 Let's Talk (Only if it matters)
 
 - Email: `trigger_austin00@proton.me`
-- Portfolio: [myPortfolio](https://austinnganga.web.app/)
 
 ---
 
