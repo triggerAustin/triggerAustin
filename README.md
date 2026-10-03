@@ -80,6 +80,15 @@ Built with `Next.js`, `NestJS`, `Prisma`, and `PostgreSQL`.
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=triggerAustin&theme=tokyonight&hide=contribs&count_private=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triggerAustin&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
 ## How I Work
 
 I don't just want code that works. I want to understand **why** it works.
