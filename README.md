@@ -1,74 +1,107 @@
 # Hey, I'm Austin
 
-I'm a software developer who builds with intention: clean code, real impact, and no noise.
+I'm a software developer who likes understanding how things work, breaking problems apart, and building things that are actually useful.
 
-I'm currently focused on:
+I learn by building, experimenting, breaking things, and fixing them. I'm particularly interested in full-stack web development, backend systems, developer tooling, and the architecture that connects everything together.
 
-- Full-stack JavaScript (React, Next.js, Node.js, MongoDB)
-- Building robust, scalable APIs and user-first UIs
-- Working on an AI-powered document retrieval and correlation system
-- Exploring secure, efficient architecture for practical, real-world tools
+## Currently Working With
+
+* Full-stack JavaScript — React, Next.js, Node.js
+* Backend development — Express, Flask, REST APIs
+* Databases — PostgreSQL, MongoDB, MySQL
+* Linux and developer tooling
+* Authentication, real-time systems, and API design
+* Performance, networking, and reliable application architecture
+* Exploring Go for developer tools and systems-oriented projects
 
 ---
 
 ## Projects
 
-### StudyMate: AI-Powered Document Intelligence
-> Find correlations, retrieve insights, and skip the reading grind.
-> Built with: `Next.js`, `Flask`, `FAISS`, `Gradio`
-> [View Project](https://github.com/triggerAustin/AIProject)
+### StudyMate
 
-### Scheduler App: Built with the MERN Stack
-> Lightweight, fast, and designed with actual users in mind.
-> Features: Calendar views, availability management, and persistent storage
-> [View Project](https://github.com/triggerAustin/scheduler-app)
+An AI-assisted learning platform for study planning, progress tracking, and collaboration.
 
-### AirBnB Clone
-> A deep dive into full-stack architecture with dynamic content and dual storage logic (File/DB).
-> Built with: `Python`, `Flask`, `SQLAlchemy`
-> [View Project](https://github.com/triggerAustin/AirBnB_clone_v2)
+Built with `React`, `TypeScript`, `Tailwind`, `Express`, `Prisma`, and `PostgreSQL`.
 
-### Foundations
-> Where the fundamentals were built: C, Unix, and shell.
-> [simple_shell](https://github.com/triggerAustin/simple_shell) | [low_level_programming](https://github.com/triggerAustin/alx-low_level_programming) | [system_engineering-devops](https://github.com/triggerAustin/alx-system_engineering-devops)
+[View Project](https://github.com/triggerAustin/study-mate)
+
+### Devman
+
+A local development server and resource manager built around the way I actually work with projects.
+
+Designed to manage multiple development services, ports, processes, and project environments from a single interface.
+
+Built with `Go`.
+
+[View Project](https://github.com/triggerAustin)
+
+### AI Document Retrieval & Correlation
+
+An experimental system for retrieving relevant documents and identifying relationships between them.
+
+Explores semantic search, embeddings, vector similarity, and document retrieval.
+
+Built with `Python`, `FAISS`, `Sentence Transformers`, and `Flask/FastAPI`.
+
+[View Project](https://github.com/triggerAustin/AIProject)
+
+### RentalSys
+
+A full-stack rental management application exploring application architecture, authentication, database design, and business logic.
+
+Built with `Next.js`, `NestJS`, `Prisma`, and `PostgreSQL`.
+
+[View Project](https://github.com/triggerAustin/rentalsys)
 
 ---
 
 ## Skills
 
-- **Languages**: JavaScript, Python, Go, C, Bash
-- **Frontend**: React, Next.js, Tailwind CSS, Vanilla JS, HTML/CSS
-- **Backend**: Node.js, Express, Flask, Python
-- **Databases**: MongoDB, MySQL, SQLAlchemy, Mongoose
-- **DevOps**: Linux, Vercel, Render, Firebase, Ngrok
-- **Tools**: Git, VSCode, Postman, Mendeley, Figma
+**Languages**
+
+`JavaScript` `Python` `Go` `C` `SQL` `Bash`
+
+**Frontend**
+
+`React` `Next.js` `HTML` `CSS` `Tailwind CSS` `Vite`
+
+**Backend**
+
+`Node.js` `Express` `Flask` `REST APIs`
+
+**Databases**
+
+`PostgreSQL` `MongoDB` `MySQL` `Prisma` `SQLAlchemy`
+
+**Tools & Infrastructure**
+
+`Linux` `Git` `Docker` `Vercel` `Firebase` `Postman`
 
 ---
 
-## GitHub Stats
+## How I Work
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=triggerAustin&theme=tokyonight&hide=contribs&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triggerAustin&layout=compact&theme=tokyonight" />
-</p>
+I don't just want code that works. I want to understand **why** it works.
 
----
+When something breaks, I like going past the immediate error and looking at the underlying system — whether that's application architecture, database behavior, network communication, authentication, performance, or the way different components interact.
 
-## What Drives Me
+I learn primarily through building. Most of what I know has come from taking an idea, turning it into something functional, running into problems, and figuring out how to solve them.
 
-I don't just write code. I build tools that solve real problems, and I'd rather understand why something works than only make it work.
-I'm not in this for noise or likes. I'm here for growth, impact, and mastery.
-
-If it doesn't push me, I don't pursue it.
-
-Outside of code: chess, writing, poetry, and languages.
+I'm interested in useful software, not software for the sake of having software.
 
 ---
 
-## Let's Talk (Only if it matters)
+## Outside of Code
 
-- Email: `trigger_austin00@proton.me`
+Chess, writing, poetry, languages, and generally being curious about how things work.
 
 ---
 
-_"Discipline is choosing what you want most over what you want now."_
+## Let's Talk
+
+Email: `trigger_austin00@proton.me`
+
+---
+
+> "Discipline is choosing what you want most over what you want now."
