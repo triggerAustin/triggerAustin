@@ -16,46 +16,6 @@ I learn by building, experimenting, breaking things, and fixing them. I'm partic
 
 ---
 
-## Projects
-
-### StudyMate
-
-An AI-assisted learning platform for study planning, progress tracking, and collaboration.
-
-Built with `React`, `TypeScript`, `Tailwind`, `Express`, `Prisma`, and `PostgreSQL`.
-
-[View Project](https://github.com/triggerAustin/study-mate)
-
-### Devman
-
-A local development server and resource manager built around the way I actually work with projects.
-
-Designed to manage multiple development services, ports, processes, and project environments from a single interface.
-
-Built with `Go`.
-
-[View Project](https://github.com/triggerAustin)
-
-### AI Document Retrieval & Correlation
-
-An experimental system for retrieving relevant documents and identifying relationships between them.
-
-Explores semantic search, embeddings, vector similarity, and document retrieval.
-
-Built with `Python`, `FAISS`, `Sentence Transformers`, and `Flask/FastAPI`.
-
-[View Project](https://github.com/triggerAustin/AIProject)
-
-### RentalSys
-
-A full-stack rental management application exploring application architecture, authentication, database design, and business logic.
-
-Built with `Next.js`, `NestJS`, `Prisma`, and `PostgreSQL`.
-
-[View Project](https://github.com/triggerAustin/rentalsys)
-
----
-
 ## Skills
 
 **Languages**
