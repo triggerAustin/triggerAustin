@@ -41,7 +41,8 @@ I learn by building, experimenting, breaking things, and fixing them. I'm partic
 ---
 
 ## GitHub Stats
-![Stats](./profile/stats.svg)
+![Stats](https://github-readme-stats.vercel.app/api?username=triggerAustin&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triggerAustin&layout=compact&langs_count=8)
 
 ---
 
