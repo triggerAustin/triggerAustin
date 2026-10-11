@@ -41,13 +41,7 @@ I learn by building, experimenting, breaking things, and fixing them. I'm partic
 ---
 
 ## GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=triggerAustin&theme=tokyonight&hide=contribs&count_private=true" alt="GitHub stats" />
-
-  
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triggerAustin&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+![Stats](./profile/stats.svg)
 
 ---
 
