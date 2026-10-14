@@ -45,6 +45,12 @@ I learn by building, experimenting, breaking things, and fixing them. I'm partic
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triggerAustin&show_icons=true&layout=compact&langs_count=8&theme=transparent)
 
 ---
+# 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=triggerAustin&theme=nightowl" />
+</div>
+
 
 ## How I Work
 
