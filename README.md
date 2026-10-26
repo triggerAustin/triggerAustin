@@ -12,7 +12,7 @@ I learn by building, experimenting, breaking things, and fixing them. I'm partic
 # Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=triggerAustin&theme=nightowl" />
+  <img src="https://streak-stats.demolab.com?user=triggerAustin&theme=nightowl " />
 </div>
 
 ## Currently Working With
