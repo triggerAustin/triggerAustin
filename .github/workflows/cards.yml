@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 3 * * *"   # daily at 03:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -18,9 +18,24 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top-langs card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&show_icons=true&layout=compact&langs_count=8&theme=transparent
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak card
+        run: |
+          mkdir -p profile
+          curl -fsSL \
+            "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=nightowl" \
+            -o profile/streak.svg
 
       - name: Commit cards
         run: |
