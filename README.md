@@ -10,7 +10,8 @@ I learn by building, experimenting, breaking things, and fixing them. I'm partic
 
 ---
 
-## Streak Stats
+# Streak Stats
+
 <div align="center">
   <img src="./profile/streak.svg" />
 </div>
