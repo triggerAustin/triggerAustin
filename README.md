@@ -66,7 +66,7 @@ I'm interested in useful software, not software for the sake of having software.
 
 ## Outside of Code
 
-Chess, writing, poetry, languages, and generally being curious about how things work.
+Chess, writing, poetry, languages, reading books; yes I accept recommendations, and generally being curious about how things work.
 
 ---
 
