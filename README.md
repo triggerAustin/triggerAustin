@@ -58,7 +58,7 @@ I don't just want code that works. I want to understand **why** it works.
 
 When something breaks, I like going past the immediate error and looking at the underlying system — whether that's application architecture, database behavior, network communication, authentication, performance, or the way different components interact.
 
-I learn primarily through building. Most of what I know has come from taking an idea, turning it into something functional, running into problems, and figuring out how to solve them.
+I learn primarily through building things. Most of what I know has come from taking an idea, turning it into something functional, running into problems, and figuring out how to solve them.
 
 I'm interested in useful software, not software for the sake of having software.
 
