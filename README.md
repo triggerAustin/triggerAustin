@@ -5,15 +5,20 @@ I'm a software developer who likes understanding how things work, breaking probl
 I learn by building, experimenting, breaking things, and fixing them. I'm particularly interested in full-stack web development, backend systems, developer tooling, and the architecture that connects everything together.
 
 ## GitHub Stats
-![Stats](./profile/stats.svg)
-![Top Langs](./profile/top-langs.svg)
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=triggerAustin&theme=tokyonight&hide=contribs&count_private=true" alt="GitHub stats" />
+
+  
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triggerAustin&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
 
 ---
 
 # Streak Stats
 
 <div align="center">
-  <img src="./profile/streak.svg" />
+   <img src="https://streak-stats.demolab.com?user=triggerAustin&theme=nightowl " />
 </div>
 
 ## Currently Working With
