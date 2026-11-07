@@ -33,9 +33,7 @@ jobs:
       - name: Generate streak card
         run: |
           mkdir -p profile
-          curl -fsSL \
-            "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=nightowl" \
-            -o profile/streak.svg
+          curl -fsSL "https://github-readme-streak-stats-eight.vercel.app?user=${{ github.repository_owner }}&theme=nightowl" -o profile/streak.svg
 
       - name: Commit cards
         run: |
