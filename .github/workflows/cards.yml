@@ -33,8 +33,16 @@ jobs:
       - name: Generate streak card
         run: |
           mkdir -p profile
-          curl -fsSL "https://github-readme-streak-stats-eight.vercel.app?user=${{ github.repository_owner }}&theme=nightowl" -o profile/streak.svg
-
+          URL="https://github-readme-streak-stats-eight.vercel.app?user=${{ github.repository_owner }}&theme=nightowl"
+          if curl -fsSL --retry 5 --retry-delay 10 --retry-all-errors --max-time 60 "$URL" -o profile/streak.tmp \
+             && grep -q "<svg" profile/streak.tmp; then
+            mv profile/streak.tmp profile/streak.svg
+            echo "Streak card updated"
+          else
+            echo "::warning::Streak service unavailable, keeping previous streak.svg"
+            rm -f profile/streak.tmp
+          fi
+          
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
